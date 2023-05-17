@@ -1,4 +1,4 @@
-# Dockerfile for universalresolver/driver-did-pdc
+# Dockerfile for w744219971/driver-did-pdc
 
 FROM maven:3-jdk-11 AS builder
 MAINTAINER Qiangqiang Wang <744219971@qq.com>
