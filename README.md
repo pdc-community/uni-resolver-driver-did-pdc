@@ -8,7 +8,6 @@ identifiers.
 ## Specifications
 
 * [Decentralized Identifiers](https://www.w3.org/TR/did-core/)
-* [DID Method Specification](https://danubetech.github.io/did-method-dns/)
 
 ## Example DIDs
 
